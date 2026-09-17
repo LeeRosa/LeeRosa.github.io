@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Astro / Node (앞으로 블로그 만들 때 필요)
+node_modules/
+dist/
+.astro/
